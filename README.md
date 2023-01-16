@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![Snake](https://raw.githubusercontent.com/lukeadawson/lukeadawson/output/github-snake.svg#gh-light-mode-only)
-![Snake](https://raw.githubusercontent.com/lukeadawson/lukeadawson/output/github-snake-dark.svg.gif#gh-dark-mode-only)
+![Snake](https://raw.githubusercontent.com/lukeadawson/lukeadawson/output/github-snake-dark.svg.svg#gh-dark-mode-only)
 
 [![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=lukeadawson&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=dark#gh-dark-mode-only)](https://github.com/lukeadawson/lukeadawson#gh-dark-mode-only)
 [![GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=lukeadawson&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=default#gh-light-mode-only)](https://github.com/lukeadawson/lukeadawson#gh-light-mode-only)
