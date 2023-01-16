@@ -7,16 +7,14 @@ on:
     - cron: "0 */6 * * *"
 
   workflow_dispatch:
-    
+
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
-    
+
     steps:
       - uses: actions/checkout@v3
-      - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v2
+      - uses: Platane/snk/svg-only@v2
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
