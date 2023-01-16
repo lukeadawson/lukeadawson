@@ -1,5 +1,5 @@
 ### About Me:
-&nbsp;Hi there 👋
+Hi there 👋
 
 ### Stats:
 [![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=lukeadawson&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=dark&bg_color=00000000#gh-dark-mode-only)](https://github.com/lukeadawson/lukeadawson#gh-dark-mode-only)
