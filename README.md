@@ -8,4 +8,7 @@
 
 ![My Skills](https://skillicons.dev/icons?i=nodejs,javascript,vuejs,aws,typescript,linux,php,bash,mysql,docker,github)
 
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default#gh-light-mode-only)
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark#gh-dark-mode-only)
+
 [![Hits](https://hits.sh/github.com/lukeadawson/lukeadawson.svg)](https://hits.sh/github.com/lukeadawson/lukeadawson)
