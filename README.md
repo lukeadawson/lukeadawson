@@ -12,7 +12,6 @@ Hi there 👋
 [![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=lukeadawson&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=dark&bg_color=00000000#gh-dark-mode-only)](https://github.com/lukeadawson/lukeadawson#gh-dark-mode-only)
 [![GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=lukeadawson&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=default&bg_color=00000000#gh-light-mode-only)](https://github.com/lukeadawson/lukeadawson#gh-light-mode-only)
 
-### Quote of the day:
 [![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default#gh-light-mode-only)](https://github.com/lukeadawson/lukeadawson#gh-light-mode-only)
 [![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark#gh-dark-mode-only)](https://github.com/lukeadawson/lukeadawson#gh-dark-mode-only)
 
