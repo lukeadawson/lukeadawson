@@ -8,4 +8,4 @@
 
 ![My Skills](https://skillicons.dev/icons?i=nodejs,javascript,vuejs,aws,typescript,linux,php,bash,mysql,docker,github)
 
-[![Hits](https://hits.sh/github.com/lukeadawson/lukeadawson.svg?label=visitors&logo=slug)](https://hits.sh/github.com/lukeadawson/lukeadawson/)
+[![Hits](https://hits.sh/github.com/lukeadawson/lukeadawson.svg)](https://hits.sh/github.com/lukeadawson/lukeadawson)
