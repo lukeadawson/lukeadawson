@@ -6,6 +6,8 @@
 [![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=lukeadawson&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=dark&bg_color=00000000#gh-dark-mode-only)](https://github.com/lukeadawson/lukeadawson#gh-dark-mode-only)
 [![GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=lukeadawson&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=default&bg_color=00000000#gh-light-mode-only)](https://github.com/lukeadawson/lukeadawson#gh-light-mode-only)
 
+[![Hits](https://hits.sh/github.com/lukeadawson/lukeadawson)](https://hits.sh/github.com/lukeadawson)
+
 <!--
 **lukeadawson/lukeadawson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
