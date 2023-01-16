@@ -3,8 +3,8 @@
 ![Snake](https://raw.githubusercontent.com/lukeadawson/lukeadawson/output/github-snake.svg#gh-light-mode-only)
 ![Snake](https://raw.githubusercontent.com/lukeadawson/lukeadawson/output/github-snake-dark.svg.gif#gh-dark-mode-only)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=lukeadawson&hide_border=true#gh-light-mode-only)
-![GitHub Streak](https://streak-stats.demolab.com?user=lukeadawson&theme=dark&hide_border=true#gh-dark-mode-only)
+![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=lukeadawson&show_icons=true&theme=dark#gh-dark-mode-only)
+![GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=lukeadawson&show_icons=true&theme=default#gh-light-mode-only)
 
 <!--
 **lukeadawson/lukeadawson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
