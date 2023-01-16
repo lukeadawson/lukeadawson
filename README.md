@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-![Snake](https://raw.githubusercontent.com/lukeadawson/lukeadawson/output/github-contribution-grid-snake.gif#gh-dark-mode-only)
 ![Snake](https://raw.githubusercontent.com/lukeadawson/lukeadawson/output/github-contribution-grid-snake.gif#gh-light-mode-only)
+![Snake](https://raw.githubusercontent.com/lukeadawson/lukeadawson/output/github-contribution-grid-snake-dark.gif#gh-dark-mode-only)
 
 <!--
 **lukeadawson/lukeadawson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
