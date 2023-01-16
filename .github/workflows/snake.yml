@@ -7,30 +7,24 @@ on:
     - cron: "0 */6 * * *"
 
   workflow_dispatch:
-
+    
 jobs:
   build:
     runs-on: ubuntu-latest
-
+    timeout-minutes: 10
+    
     steps:
-      - uses: actions/checkout@v3
-      - uses: Platane/snk@master
-        id: snake-gif
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v2
         with:
           github_user_name: ${{ github.repository_owner }}
-          light:  dist/github-snake.svg
-          dark: dist/github-snake-dark.svg?palette=github-dark
-          ocean: dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
       - run: git status
       - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main
-          force: true
-
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+      - name: push github-contribution-grid-snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
